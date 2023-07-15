@@ -1957,13 +1957,6 @@ input, select, textarea {
 	header.major {
 		text-align: center;
 	}
-
-	@media (max-width: 368px) {
-		header.major {
-			text-align: center;
-		}
-	}
-
 		header.major h1, header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			position: relative;
 		}
