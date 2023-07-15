@@ -1957,6 +1957,8 @@ input, select, textarea {
 	header.major {
 		text-align: center;
 	}
+
+
 		header.major h1, header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			position: relative;
 		}
@@ -3027,7 +3029,7 @@ input, select, textarea {
 				}
 
 					#header header h1 {
-						font-size: 2em;
+						font-size: 1.8em;
 					}
 
 					#header header p {
