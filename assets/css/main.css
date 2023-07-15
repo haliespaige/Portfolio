@@ -1958,7 +1958,7 @@ input, select, textarea {
 		text-align: center;
 	}
 
-	@media (max-width: 768px) {
+	@media (max-width: 368px) {
 		header.major {
 			text-align: center;
 		}
